@@ -3,7 +3,7 @@ let suits=["Hearts","Clubs", "Diamonds", "Spades"],
 'Ten','Nine','Eight','Seven','Six','Five','Four','Three','Two'];
 
 //DOM VARIABLES
-let textarea= document.getElementById("text-area");
+let textarea= document.getElementById("text-area")
 let newgamebutton= document.getElementById("new-game");
 let hitbutton= document.getElementById("hit-button");
 let staybutton= document.getElementById("stay");
